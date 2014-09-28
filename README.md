@@ -1,4 +1,4 @@
 Designs
 =======
 
-Sample wire web wireframes and photoshop designs
+Sample web wireframes and photoshop designs
